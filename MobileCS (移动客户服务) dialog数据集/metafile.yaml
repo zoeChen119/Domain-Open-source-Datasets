@@ -1,0 +1,17 @@
+displayName: MobileCS
+labelTypes:
+- Chinese Corpus
+license:
+- Unknown
+mediaTypes:
+- Audio
+- Text
+paperUrl: https://arxiv.org//pdf/2210.08873.pdf
+publishDate: 07-01-22
+publishUrl: https://github.com/SereTOD/SereTOD2022
+publisher:
+- Tsinghua University
+- China Mobile
+tags:
+- Dialogue
+taskTypes: []

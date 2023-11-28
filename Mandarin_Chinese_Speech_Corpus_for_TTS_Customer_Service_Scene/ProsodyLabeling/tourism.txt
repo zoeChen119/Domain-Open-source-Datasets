@@ -1,0 +1,100 @@
+300001	你#1可以#1打开#1那个#1飞猪#1APP#1里面#3，首页#1有活动#1都会#1告知您的#3，我#1记得#1这个#1自由行#1的话#2，活动#1还是#1挺多的#4。
+	ni3 ke6 yi6 da3 kai1 na4 ge5 fei1 zhu1 / EY1 . P IY1 . P IY1 / li3 mian4 shou3 ye4 you3 huo2 dong4 dou1 hui4 gao4 zhi1 nin2 de5 wo3 ji4 de5 zhei4 ge5 zi4 you2 xing2 de5 hua4 huo2 dong4 hai2 shi4 ting3 duo1 de5
+300002	这个#1产品#1是#1不错的#3，线路的话#1你要#1注意一下#3，有#1A线#2B线#1和#1C线#4。
+	zhei4 ge5 chan6 pin3 shi4 bu2 cuo4 de5 xian4 lu4 de5 hua4 ni3 yao4 zhu4 yi4 yi2 xia4 you3 / EY1 / xian4 / B IY1 / xian4 he2 / S EY1 / xian4
+300003	两个人#1对吧#3？两个人#1目前的话#1按#1A线的#1那种#1线路#1搭下来#1住#1一间#1房间#3，两个人#1七千#1八百四#4。
+	liang3 ge5 ren2 dui4 ba5 liang3 ge5 ren2 mu4 qian2 de5 hua4 an4 / EY1 / xian4 de5 na4 zhong3 xian4 lu4 da1 xia4 lai5 zhu4 yi4 jian1 fang2 jian1 liang3 ge5 ren2 qi1 qian1 ba1 bai3 si4
+300004	你#1可以#1打开#1飞猪#1APP#3，这边#1首页#1如果#1有活动#1它都会#1告知您的#3，我#1记得#1这个#1自由行#1的话#2，活动#1还是#1挺多的#4。
+	ni3 ke6 yi6 da3 kai1 fei1 zhu1 / EY1 . P IY1 . P IY1 / zhei4 bian1 shou3 ye4 ru2 guo6 you3 huo2 dong4 ta1 dou1 hui4 gao4 zhi1 nin2 de5 wo3 ji4 de5 zhei4 ge5 zi4 you2 xing2 de5 hua4 huo2 dong4 hai2 shi4 ting3 duo1 de5
+300005	他有#1这种#1自由行的#3，我#1稍后#1这边#1也给您#1发到您#1QQ上#1好吧#4？
+	ta1 you3 zhei4 zhong3 zi4 you2 xing2 de5 wo3 shao1 hou4 zhei4 bian1 ye6 gei3 nin2 fa1 dao4 nin2 / K Y UW1 . K Y UW1 / shang4 hao3 ba5
+300006	一般#2A线#1去的人#1比较多#3，因为#1它这#1上面#1写的是#1年度#1畅玩#3，而且#1价格#1合适#4。
+	yi4 ban1 / EY1 / xian4 qu4 de5 ren2 bi3 jiao4 duo1 yin1 wei4 ta1 zhei4 shang4 mian5 xie3 de5 shi4 nian2 du4 chang4 wan2 er2 qie3 jia4 ge2 he2 shi4
+300007	您#1可以#1考虑#1华东#1五市的#1一个#1跟团游#3，那个#1会#1更适合你#4。
+	nin2 ke6 yi6 kao3 lv4 hua2 dong1 wu3 shi4 de5 yi2 ge5 gen1 tuan2 you2 na4 ge5 hui4 geng4 shi4 he2 ni3
+300008	好#3，这样的话#2，其实#1八天#1七晚#1就够了#4。
+	hao3 zhei4 yang4 de5 hua4 qi2 shi2 ba1 tian1 qi1 wan3 jiu4 gou4 le5
+300009	对#3，如果#1跟团的话#1您这边#1大概#1从哪儿#1出发#4？
+	dui4 ru2 guo3 gen1 tuan2 de5 hua4 nin2 zhei4 bian1 da4 gai4 cong2 nar3 chu1 fa1
+300010	我#1这里#1查不到#1苏州#1出发的#1线路的#1具体#1信息#3，要不#1我给您#1转接#1其他#1客服#4？
+	wo3 zhe4 li3 cha2 bu2 dao4 su1 zhou1 chu1 fa1 de5 xian4 lu4 de5 ju4 ti3 xin4 xi1 yao4 bu5 wo6 gei3 nin2 zhuan3 jie1 qi2 ta1 ke4 fu2
+300011	您#1这边#1最后#1有#1看好#1哪一条#1线路的话#1，您#1告诉我#3，我#1帮您#1下一个#1免费#1咨询单#4。
+	nin2 zhei4 bian1 zui4 hou4 you3 kan4 hao6 na3 yi4 tiao2 xian4 lu4 de5 hua4 nin2 gao4 su5 wo3 wo3 bang1 nin2 xia4 yi2 ge5 mian3 fei4 zi1 xun2 dan1
+300012	因为#1自由行的话#1就是#3，他#1会把#1门票#1给你#3，然后#1或是#1一些#1酒店#1他们#1来定#4。
+	yin1 wei4 zi4 you2 xing2 de5 hua4 jiu4 shi4 ta1 hui4 ba3 men2 piao4 gei6 ni3 ran2 hou4 huo4 shi4 yi4 xie1 jiu3 dian4 ta1 men5 lai2 ding4
+300013	就是#1机票#1也#1帮您#1订好了#1之后#3，然后#1行程#1完全#1是#1由您#1自己#1安排#3，中间#1是#1没有#1导游的#4。
+	jiu4 shi4 ji1 piao4 ye3 bang1 nin2 ding4 hao3 le5 zhi1 hou4 ran2 hou4 xing2 cheng2 wan2 quan2 shi4 you2 nin2 zi4 ji3 an1 pai2 zhong1 jian1 shi4 mei2 you6 dao3 you2 de5
+300014	我#1帮您#1注册#1一下#1我们#1携程的#1会员吧#3，以后#1您#1再来#1咨询的话#2，会#1比较#1方便#1一点#4。
+	wo3 bang1 nin2 zhu4 ce4 yi2 xia4 wo3 men5 xie2 cheng2 de5 hui4 yuan2 ba5 yi3 hou4 nin2 zai4 lai2 zi1 xun2 de5 hua4 hui4 bi3 jiao4 fang1 bian4 yi4 dian3
+300015	是#1上海#1，杭州#1，苏州#1，乌镇#1跟团游#1，可以#1便宜些吗#4？
+	shi4 shang4 hai3 hang2 zhou1 su1 zhou1 wu1 zhen4 gen1 tuan2 you2 ke6 yi3 pian2 yi5 xie1 ma5
+300016	目前#1成都#1这边#1您的#1出行#1日期#1目前#1没有#1跟团的#1产品#3，只有#1自驾的#1产品#1形式#4。
+	mu4 qian2 cheng2 du1 zhei4 bian1 nin2 de5 chu1 xing2 ri4 qi1 mu4 qian2 mei2 you3 gen1 tuan2 de5 chan6 pin3 zhi6 you3 zi4 jia4 de5 chan6 pin3 xing2 shi4
+300017	刚刚#1那条#1线路#1正常的话#2应该#1是在#1三四百块钱#1左右#3，您能#1接受吗#4？
+	gang1 gang1 na4 tiao2 xian4 lu4 zheng4 chang2 de5 hua4 ying1 gai1 shi4 zai4 san1 si4 bai3 kuai4 qian2 zuo3 you4 nin2 neng2 jie1 shou4 ma5
+300018	景点的话#2都是#1按#1网页#1披露#1这个#1行程#2，包括#1游览#1时间#1都有的#3，你#1可以#1看一下#4。
+	jing6 dian3 de5 hua4 dou1 shi4 an4 wang3 ye4 pi1 lu4 zhei4 ge5 xing2 cheng2 bao1 kuo4 you2 lan3 shi2 jian1 dou1 you3 de5 ni3 ke6 yi3 kan4 yi2 xia4
+300019	我们#1这边#1有#1曼谷#1加上#1芭提雅#1六日#1五晚的#1那种#1自由行#3，然后#1中间#1发往#1芭提雅#4。
+	wo3 men5 zhei4 bian1 you3 man4 gu3 jia1 shang4 ba1 ti2 ya3 liu4 ri4 wu6 wan3 de5 na4 zhong3 zi4 you2 xing2 ran2 hou4 zhong1 jian1 fa1 wang3 ba1 ti2 ya3
+300020	嗯#3！我帮您#1选的#1这个#1线路#1五号#1参考#1价格#1是#1三千#1五百零九#3，但是#1它也有#1其它#1方向#4。
+	ng4 wo3 bang1 nin2 xuan3 de5 zhei4 ge5 xian4 lu4 wu3 hao4 can1 kao3 jia4 ge2 shi4 san1 qian1 wu6 bai3 ling2 jiu3 dan4 shi4 ta1 ye6 you3 qi2 ta1 fang1 xiang4
+300021	不同#1地点的#1跟团游#1价格#1是有#1一点#1差异的#4。
+	bu4 tong2 di4 dian3 de5 gen1 tuan2 you2 jia4 ge2 shi4 you3 yi4 dian3 cha1 yi4 de5
+300022	嗯#3，跟团的话#1我们#1这边#1比较#1火爆的#1是#1厦门#1鼓浪屿#1、金门岛#1这些#1线路#4。
+	ng4 gen1 tuan2 de5 hua4 wo3 men5 zhei4 bian1 bi3 jiao4 huo3 bao4 de5 shi4 xia4 men2 gu3 lang4 yu3 jin1 men2 dao3 zhei4 xie1 xian4 lu4
+300023	现在#1这个#1自驾团#1每个#1日期#1都有#4。
+	xian4 zai4 zhei4 ge5 zi4 jia4 tuan2 mei3 ge5 ri4 qi1 dou1 you3
+300024	有需要#1您#1可以#1在#1网站上#1看一下#3，有#1这些#1大峡谷啊#2漂流啊#1什么的#4。
+	you3 xu1 yao4 nin2 ke6 yi3 zai4 wang3 zhan4 shang4 kan4 yi2 xia4 you3 zhei4 xie1 da4 xia2 gu3 a5 piao1 liu2 a5 shen2 me5 de5
+300025	明天#1北京#1出发#1到#1广西#1桂林的话#2，最早的票#1是#1九点#1三十五#1起飞#3，一千#1三百八#3，不含税#4。
+	ming2 tian1 bei3 jing1 chu1 fa1 dao4 guang3 xi1 gui4 lin2 de5 hua4 zui4 zao3 de5 piao4 shi4 jiu6 dian3 san1 shi2 wu6 qi3 fei1 yi4 qian1 san1 bai3 ba1 bu4 han2 shui4
+300026	想#1自由行#1，还是要#1跟团#4？
+	xiang3 zi4 you2 xing2 hai2 shi4 yao4 gen1 tuan2
+300027	是#1五飞#1八日游#3，如果说#1你#1想要#1往#1云南#1这个#1方向#1走的话呢#3，我这边#1先帮您#1看下#4。
+	shi4 wu3 fei1 ba1 ri4 you2 ru2 guo3 shuo1 ni6 xiang3 yao4 wang3 yun2 nan2 zhei4 ge5 fang1 xiang4 zou3 de5 hua4 ne5 wo3 zhei4 bian1 xian1 bang1 nin2 kan4 xia4
+300028	后续的话#2我让#1旅游#1顾问#1跟你#1联系#3，有什么#1问题#1您#1可以#1跟他说#4。
+	hou4 xu4 de5 hua4 wo3 rang4 lv3 you2 gu4 wen4 gen1 ni3 lian2 xi4 you3 shen2 me5 wen4 ti2 nin2 ke6 yi3 gen1 ta1 shuo1
+300029	旅游#1下面#1有个#1订制#1包团的#1服务#1，您#1点击#1看一下#4。
+	lv3 you2 xia4 mian4 you3 ge5 ding4 zhi4 bao1 tuan2 de5 fu2 wu4 nin2 dian3 ji1 kan4 yi2 xia4
+300030	对#3，我们#1途牛#1自己#1开发的#1就#1只接受#1我们#1途牛的#1客人#4。
+	dui4 wo3 men5 tu2 niu2 zi4 ji3 kai1 fa1 de5 jiu4 zhi3 jie1 shou4 wo3 men5 tu2 niu2 de5 ke4 ren5
+300031	跟团的话#2您#1大概是#1几月份#1有时间呢#4？
+	gen1 tuan2 de5 hua4 nin2 da4 gai4 shi4 ji3 yue4 fen4 you3 shi2 jian1 ne5
+300032	游船#1旅游#1吟子呀#3，漓江啊#2，遇龙河啊#3，这样子#1晚上#1看#1像#1刘三姐的#1演出#4。
+	you2 chuan2 lv3 you2 yin2 zi3 ya5 li2 jiang1 a5 yu4 long2 he2 a5 zhei4 yang4 zi5 wan3 shang5 kan4 xiang4 liu2 san1 jie3 de5 yan3 chu1
+300033	从#1天津#1出发#2，想要去#1韩国#1首尔#2，想要#1跟团游#4。
+	cong2 tian1 jin1 chu1 fa1 xiang3 yao4 qu4 han2 guo2 shou6 er3 xiang3 yao4 gen1 tuan2 you2
+300034	最近#1是吧#3？现在#1离你#1最近的#2是#1一个#1八月#1二号的#1团体#1可以吗#4？
+	zui4 jin4 shi4 ba5 xian4 zai4 li2 ni3 zui4 jin4 de5 shi4 yi2 ge5 ba1 yue4 er4 hao4 de5 tuan2 ti3 ke6 yi3 ma5
+300035	对#2，是#1三晚#1四天的#4。
+	dui4 shi4 san1 wan3 si4 tian1 de5
+300036	因为#1你们#1自己来#3，这样的话#1就#1比较#1自由#4。
+	yin1 wei4 ni3 men5 zi4 ji3 lai2 zhei4 yang4 de5 hua4 jiu4 bi3 jiao4 zi4 you2
+300037	景点#1时间#1可能会#1耽搁#1一点#3，然后#1火车#1卧铺的话#2我们#1是#1晚上#1出发#3，这样#1能#1节省#1时间#4。
+	jing6 dian3 shi2 jian1 ke3 neng2 hui4 dan1 ge5 yi4 dian3 ran2 hou4 huo3 che1 wo4 pu4 de5 hua4 wo3 men5 shi4 wan3 shang5 chu1 fa1 zhei4 yang4 neng2 jie2 sheng3 shi2 jian1
+300038	我们#1现在#1暑假的团#1还没有#1出来呢#1，女士#4。
+	wo3 men5 xian4 zai4 shu3 jia4 de5 tuan2 hai2 mei2 you3 chu1 lai5 ne5 nv3 shi4
+300039	抱歉#1让您#1久等了#3，这边#1给您#1看到#1有一款#1是#1南京#1出发的#2，刚好#1是你#1想要的#4。
+	bao4 qian4 rang4 nin2 jiu6 deng3 le5 zhei4 bian1 gei3 nin2 kan4 dao4 you3 yi4 kuan3 shi4 nan2 jing1 chu1 fa1 de5 gang1 hao3 shi4 ni6 xiang3 yao4 de5
+300040	这边的话#2我#1帮您#1看了#1成都#1九寨沟#2黄龙#1双飞#1五日游的#1一条#1线路#4。
+	zhei4 bian1 de5 hua4 wo3 bang1 nin2 kan4 le5 cheng2 du1 jiu3 zhai4 gou1 huang2 long2 shuang1 fei1 wu3 ri4 you2 de5 yi4 tiao2 xian4 lu4
+300041	有#1看到#1一个团#2，是#1张家界#1黄龙洞#1森林#1公园#2天门山#1凤凰#1酒店#1跟团#1线路#4。
+	you3 kan4 dao4 yi2 ge5 tuan2 shi4 zhang1 jia1 jie4 huang2 long2 dong4 sen1 lin2 gong1 yuan2 tian1 men2 shan1 feng4 huang2 jiu3 dian4 gen1 tuan2 xian4 lu4
+300042	您#1可以#1考虑#1西藏#1新疆#1这种#1长线的#1游玩#3，您#1大概的#1一个#1预算#1是多少#4？
+	nin2 ke6 yi6 kao3 lv4 xi1 zang4 xin1 jiang1 zhei4 zhong3 chang2 xian4 de5 you2 wan2 nin2 da4 gai4 de5 yi2 ge5 yu4 suan4 shi4 duo1 shao3
+300043	最终的话#1您会#1回到#1大阪#3，您#1可以在#1大阪#1玩玩#2，就#1三个#1晚上#4。
+	zui4 zhong1 de5 hua4 nin2 hui4 hui2 dao4 da4 ban3 nin2 ke6 yi3 zai4 da4 ban3 wan2 wan5 jiu4 san1 ge5 wan3 shang4
+300044	您#1可以#1让他#1给您#1报个#1价格#3，酒店#1可以#1让他#1再帮您#1推荐#1一下#3，他是#1专门#1负责#1这条线的#4。
+	nin2 ke6 yi3 rang4 ta1 gei3 nin2 bao4 ge5 jia4 ge2 jiu3 dian4 ke6 yi3 rang4 ta1 zai4 bang1 nin2 tui1 jian4 yi2 xia4 ta1 shi4 zhuan1 men2 fu4 ze2 zhei4 tiao2 xian4 de5
+300045	我先#1帮您#1找一下#1线路#3，您是#1准备#1从哪里#1出发#4？
+	wo3 xian1 bang1 nin2 zhao3 yi2 xia4 xian4 lu4 nin2 shi4 zhun3 bei4 cong2 na6 li3 chu1 fa1
+300046	我#1这边#1帮您#1看了#1一个#1黄山#1四日#1三晚的#1跟团游#1四转#3，最美#1高铁#1直达#1经典#1黄山#1全景#4。
+	wo3 zhei4 bian1 bang1 nin2 kan4 le5 yi2 ge5 huang2 shan1 si4 ri4 san1 wan3 de5 gen1 tuan2 you2 si4 zhuan4 zui4 mei3 gao1 tie3 zhi2 da2 jing1 dian3 huang2 shan1 quan2 jing3
+300047	地表#1最长#1迪士尼#3，三晚#1五星#1是#1五星#1价位#1双飞#2，价格#1会贵些#4。
+	di4 biao3 zui4 chang2 di2 shi4 ni2 san1 wan6 wu3 xing1 shi4 wu3 xing1 jia4 wei4 shuang1 fei1 jia4 ge2 hui4 gui4 xie1
+300048	然后#1您#1现在#1广州#1是住#1两晚#1还是#1住一晚#3？我给您#1选择#1住宿#4。
+	ran2 hou4 nin2 xian4 zai4 guang3 zhou1 shi4 zhu4 liang6 wan3 hai2 shi4 zhu4 yi4 wan3 wo6 gei3 nin2 xuan3 ze2 zhu4 su4
+300049	我#1帮您#1看一下#2跟团的话#2，凤凰#1古城#1有一个#1行程#1是#1六日游的#3，这个#1比较#1适合您#4。
+	wo3 bang1 nin2 kan4 yi2 xia4 gen1 tuan2 de5 hua4 feng4 huang2 gu3 cheng2 you3 yi2 ge5 xing2 cheng2 shi4 liu4 ri4 you2 de5 zhei4 ge5 bi3 jiao4 shi4 he2 nin2
+300050	云南#2、丽江#2、大理#2、玉龙#1雪山#1，这些#1都是#1比较火的#1景点#3，您#1可以#1去看看#4。
+	yun2 nan2 li4 jiang1 da4 li3 yu4 long2 xue3 shan1 zhei4 xie1 dou1 shi4 bi3 jiao4 huo3 de5 jing6 dian3 nin2 ke6 yi3 qu4 kan4 kan5

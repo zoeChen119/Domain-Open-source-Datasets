@@ -1,0 +1,100 @@
+000001	这种#1保险#1本来#1就有#1返还#1，一年#1返个#1三千#3，从#1第五年#1或者是#1第六年#1以后#1，它#1返还到#1B款#1里面去#2，B款#1就是#1万能#1账户#4。
+	zhei4 zhong3 bao6 xian3 ben3 lai2 jiu4 you6 fan3 huan2 yi4 nian2 fan3 ge5 san1 qian1 cong2 di4 wu3 nian2 huo4 zhe3 shi4 di4 liu4 nian2 yi3 hou4 ta1 fan3 huan2 dao4 / B IY1 / kuan6 li3 mian5 qu4 / B IY1 / kuan3 jiu4 shi4 wan4 neng2 zhang4 hu4
+000002	我们#1这边#1卖的#1盈泰#1A款#1年金#1保险#1非常#1适合您#4。
+	wo3 men5 zhei4 bian1 mai4 de5 ying2 tai4 / EY1 / kuan3 nian2 jin1 bao6 xian3 fei1 chang2 shi4 he2 nin2
+000003	可以说#2，保险#1公司#1给咱们#1N倍的#1这样的#1一个#1保额#4。
+	ke6 yi3 shuo1 bao6 xian3 gong1 si1 gei3 zan2 men5 / EH1 N / bei4 de5 zhe4 yang4 de5 yi2 ge5 bao3 e2
+000004	金色#1阳光#1C款#1养老#1年金#1保险#3这个#1保险#1是#1一个#1养老型的#1保险#4。
+	jin1 se4 yang2 guang1 / S EY1 / kuan3 yang6 lao3 nian2 jin1 bao6 xian3 zhei4 ge5 bao6 xian3 shi4 yi2 ge5 yang6 lao3 xing2 de5 bao6 xian3
+000005	您这边#1可以#1下载#1一个#1我们#1泰康#1在线的#1APP#3，您#1可以#1在线的#1浏览#1一下#3，因为#1我们#1这边#1保险#1确实#1挺多的#4。
+	nin2 zhei4 bian1 ke6 yi3 xia4 zai4 yi2 ge4 wo3 men5 tai4 kang1 zai4 xian4 de5 / EY1 . P IY1 . P IY1 / nin2 ke6 yi3 zai4 xian4 de5 liu2 lan3 yi2 xia4 yin1 wei4 wo3 men5 zhei4 bian1 bao6 xian3 que4 shi2 ting3 duo1 de5
+000006	健康#1尊享#1B款的#1医疗#1保险#1这款#1您是#1想要#1办理的吗#4？
+	jian4 kang1 zun1 xiang3 / B IY1 / kuan3 de5 yi1 liao2 bao6 xian3 zhei4 kuan3 nin2 shi4 xiang3 yao4 ban4 li3 de5 ma5
+000007	您是#1想了解#1重大#1疾病#1保险#1A款吗#4？
+	nin2 shi4 xiang3 liao6 jie3 zhong4 da4 ji2 bing4 bao6 xian3 / EY1 / kuan3 ma5
+000008	这个#1产品#1可以#1选择#1附加#1一些#1短期的#1附加险#3，比如#1住院#1费用#1医疗#1保险#1AB款#4。
+	zhei4 ge5 chan6 pin3 ke6 yi6 xuan3 ze2 fu4 jia1 yi4 xie1 duan3 qi1 de5 fu4 jia1 xian3 bi3 ru2 zhu4 yuan4 fei4 yong5 yi1 liao2 bao6 xian3 / EY1 . B IY1 / kuan3
+000009	如果#1有#1那种#1医疗险#1的话#1可以#1考虑#1保#1爱心#1住院的#1B款#4。
+	ru2 guo6 you3 nei4 zhong3 yi1 liao2 xian3 de5 hua4 ke6 yi6 kao3 lv4 bao3 ai4 xin1 zhu4 yuan4 de5 / B IY1 / kuan3
+000010	我们#1这边#1健康#1A的#1产品#1可以保#1七十种#1重大#1疾病#4。
+	wo3 men5 zhei4 bian1 jian4 kang1 / EY1 / de5 chan6 pin3 ke6 yi6 bao3 qi1 shi2 zhong3 zhong4 da4 ji2 bing4
+000011	A的话#1是#1咱们#1包的#1是#1七十种#1重大#1疾病#1，然后#1B的话#1是#1咱们的#1一个#1住院#1津贴#4。
+	EY1 / de5 hua4 shi4 zan2 men5 bao1 de5 shi4 qi1 shi2 zhong3 zhong4 da4 ji2 bing4 ran2 hou4 / B IY1 / de5 hua4 shi4 zan2 men5 de5 yi2 ge5 zhu4 yuan4 jin1 tie1
+000012	因为#1年龄#1已经#1很大了#3，一般#1咱#1约定的#1养老金#1领取#2就#1五十#1五六十啊#1六十五啊#4。
+	yin1 wei4 nian2 ling2 yi3 jing1 hen3 da4 le5 yi4 ban1 zan2 yue1 ding4 de5 yang6 lao3 jin1 ling6 qu3 jiu4 wu3 shi2 wu3 liu4 shi2 a5 liu4 shi2 wu3 a5
+000013	是#1对您#1花的钱#1实际的#1支出#1费用#1进行#1一个#1医疗#1报销#1保险#4。
+	shi4 dui4 nin2 hua1 de5 qian2 shi2 ji4 de5 zhi1 chu1 fei4 yong5 jin4 xing2 yi2 ge5 yi1 liao2 bao4 xiao1 bao6 xian3
+000014	本保险#1按照#1保险#1合同#1最长#1可以#1一直#1照顾#1您的#1老年#1生活#1直至#1八十五#1周岁的#1年生效#1对应日#4。
+	ben3 bao6 xian3 an4 zhao4 bao6 xian3 he2 tong5 zui4 chang2 ke6 yi3 yi4 zhi2 zhao4 gu4 nin2 de5 lao3 nian2 sheng1 huo2 zhi2 zhi4 ba1 shi2 wu3 zhou1 sui4 de5 nian2 sheng1 xiao4 dui4 ying4 ri4
+000015	像我们#1定#1网销#1这个#1大部分#1保险#1它#1都是#1分开#1保的#4。
+	xiang4 wo3 men5 ding4 wang3 xiao1 zhei4 ge5 da4 bu4 fen5 bao6 xian3 ta1 dou1 shi4 fen1 kai1 bao3 de5
+000016	这种#1重大#1疾病的#1可能#1都是#1按照#1保险#1交款#1来#1履行#1责任的#4。
+	zhei4 zhong3 zhong4 da4 ji2 bing4 de5 ke3 neng2 dou1 shi4 an4 zhao4 bao6 xian3 jiao1 kuan3 lai2 lv3 xing2 ze2 ren4 de5
+000017	防癌的#1保险#1一般#1来说#1年龄#1稍微大嘛#1，所以#1它会#1贵一些#4。
+	fang2 ai2 de5 bao6 xian3 yi4 ban1 lai2 shuo1 nian2 ling2 shao1 wei1 da4 ma5 suo6 yi3 ta1 hui4 gui4 yi4 xie1
+000018	我#1安排#1工作#1人员#1根据#1您的#1情况#1给您#1做一个#1保险#1计划#4。
+	wo3 an1 pai2 gong1 zuo4 ren2 yuan2 gen1 ju4 nin2 de5 qing2 kuang4 gei3 nin2 zuo4 yi2 ge5 bao6 xian3 ji4 hua4
+000019	加上#1保险的话#1一个人#1大概#1也就是#1几十#1块钱#3，一个#1保险#1大概#1也就是#2一千一#1不到吧#4。
+	jia1 shang4 bao6 xian3 de5 hua4 yi2 ge5 ren2 da4 gai4 ye3 jiu4 shi4 ji3 shi2 kuai4 qian2 yi2 ge5 bao6 xian3 da4 gai4 ye3 jiu4 shi4 yi4 qian1 yi1 bu2 dao4 ba5
+000020	但是#1我们#1这个#1信福#1年金的#1产品#1，收益#1非常#1可人#4。
+	dan4 shi4 wo3 men5 zhei4 ge5 xin4 fu2 nian2 jin1 de5 chan6 pin3 shou1 yi4 fei1 chang2 ke3 ren2
+000021	在#1合同#1有效期内#1如果#1被保障人#1死亡#2，受益人#1可按#1保额#1获得#1身故#1保险金#4。
+	zai4 he2 tong5 you3 xiao4 qi1 nei4 ru2 guo3 bei4 bao3 zhang4 ren2 si3 wang2 shou4 yi4 ren2 ke3 an4 bao3 e2 huo4 de2 shen1 gu4 bao6 xian3 jin1
+000022	还有#1祥佑#3，都是保#1这个#1重大#1疾病的#4。
+	hai2 you3 xiang2 you4 dou1 shi4 bao3 zhei4 ge5 zhong4 da4 ji2 bing4 de5
+000023	当然#1可以啦#3，如果#1您#1都需要#1的话#1，那#1咱们#1可以#1选择#1不同的#1保险#1来#1聚合#1入保#4。
+	dang1 ran2 ke6 yi3 la5 ru2 guo3 nin2 dou1 xu1 yao4 de5 hua4 na4 zan2 men5 ke6 yi6 xuan3 ze2 bu4 tong2 de5 bao6 xian3 lai2 ju4 he2 ru4 bao3
+000024	这个#1是#1针对#1意外#1这一块儿的#3，另外#1还有#1一个#1安心#1住院的#1医疗险#4。
+	zhei4 ge5 shi4 zhen1 dui4 yi4 wai4 zhei4 yi2 kuair4 de5 ling4 wai4 hai2 you3 yi2 ge5 an1 xin1 zhu4 yuan4 de5 yi1 liao2 xian3
+000025	对#3，因为#1您#1年纪#1相对#1来说#1偏大了#3，没有#1适合#1这个#1年龄#1入保的#1养老#1保险了#4。
+	dui4 yin1 wei4 nin2 nian2 ji4 xiang1 dui4 lai2 shuo1 pian1 da4 le5 mei2 you3 shi4 he2 zhei4 ge5 nian2 ling2 ru4 bao3 de5 yang6 lao3 bao6 xian3 le5
+000026	保险的话#2我们#1这边的#1保险#1险种#1非常多#4。
+	bao6 xian3 de5 hua4 wo3 men5 zhei4 bian1 de5 bao6 xian3 xian6 zhong3 fei1 chang2 duo1
+000027	现在#1你#1准备#1在#1哪个#1地方#1投保#3？我看你#1还#1有没有#1这种#1意外险#4。
+	xian4 zai4 ni6 zhun3 bei4 zai4 na3 ge5 di4 fang5 tou2 bao3 wo3 kan4 ni3 hai2 you3 mei2 you3 zhei4 zhong3 yi4 wai4 xian3
+000028	而且#1它的#1保障#1也#1稍微#1全面#1一点#3，保的是#1多重#1疾病#4。
+	er2 qie3 ta1 de5 bao3 zhang4 ye3 shao1 wei1 quan2 mian4 yi4 dian3 bao3 de5 shi4 duo1 chong2 ji2 bing4
+000029	一年后#1初患#1合同#1约定的#1重大#1疾病#1给付#1十万元#2，合同#1终止#4。
+	yi4 nian2 hou4 chu1 huan4 he2 tong5 yue1 ding4 de5 zhong4 da4 ji2 bing4 ji3 fu4 shi2 wan4 yuan2 he2 tong5 zhong1 zhi3
+000030	我#1看下#1这款#1保险的#1赔付#2，您#1稍等#4。
+	wo3 kan4 xia4 zhei4 kuan3 bao6 xian3 de5 pei2 fu4 nin2 shao1 deng3
+000031	车险的话#1能不能#1报一下#1车牌号#3，女士#1我帮您#1安排#1业务员#4。
+	che1 xian3 de5 hua4 neng2 bu5 neng2 bao4 yi2 xia4 che1 pai2 hao4 nv3 shi4 wo3 bang1 nin2 an1 pai2 ye4 wu4 yuan2
+000032	这个#1疾病#1确实#1是#1比较#1严重了#3，还有#1您#1刚才#1提到的#1恶性#1肿瘤#1都是#1可以#1报销的#4。
+	zhei4 ge5 ji2 bing4 que4 shi2 shi4 bi3 jiao4 yan2 zhong4 le5 hai2 you3 nin2 gang1 cai2 ti2 dao4 de5 e4 xing4 zhong3 liu2 dou1 shi4 ke6 yi3 bao4 xiao1 de5
+000033	如果#1您#1以前#1没有#1在#1平安#1办理过#1保险#3，您#1可以#1了解下#1我们#1这款#1产品#4。
+	ru2 guo3 nin2 yi3 qian2 mei2 you3 zai4 ping2 an1 ban4 li3 guo5 bao6 xian3 nin2 ke6 yi3 liao6 jie3 xia4 wo3 men5 zhei4 kuan3 chan6 pin3
+000034	我们#1给您#1和#1您的#1家人#1做一份#1保险#1计划#3，详细#1给您#1介绍#1一下#1好吗#4？
+	wo3 men5 gei3 nin2 he2 nin2 de5 jia1 ren2 zuo4 yi2 fen4 bao6 xian3 ji4 hua4 xiang2 xi4 gei3 nin2 jie4 shao4 yi2 xia4 hao3 ma5
+000035	咱们#1这边#1有一个#1医疗险#1名额#3，当然#1这个#1是#1后期的#1一个#1产品#3，我#1等下#1给你#1讲一下#4。
+	zan2 men5 zhei4 bian1 you3 yi2 ge5 yi1 liao2 xian3 ming2 e2 dang1 ran2 zhei4 ge5 shi4 hou4 qi1 de5 yi2 ge5 chan6 pin3 wo6 deng3 xia4 gei6 ni6 jiang3 yi2 xia4
+000036	比如说#3不小心#1磕伤#1碰伤了呀#1，或者#1意外#1摔倒了呀#3，您都#1可以#1申请#1理赔#4。
+	bi3 ru2 shuo1 bu4 xiao3 xin1 ke1 shang1 peng4 shang1 le5 ya5 huo4 zhe3 yi4 wai4 shuai1 dao3 le5 ya5 nin2 dou1 ke6 yi3 shen1 qing6 li3 pei2
+000037	生存#1状态下#1可领取#1养老金#1直至#1终身#3，至少#1保证#1领取#1十年#4。
+	sheng1 cun2 zhuang4 tai4 xia4 ke3 ling6 qu3 yang6 lao3 jin1 zhi2 zhi4 zhong1 shen1 zhi4 shao6 bao3 zheng4 ling6 qu3 shi2 nian2
+000038	这样的话#1组合到#1一块儿#1，就#1比较#1全面了#3，又保#1重大#1疾病#1还保#1住院#1医疗#4。
+	zhei4 yang4 de5 hua4 zu3 he2 dao4 yi2 kuair4 jiu4 bi3 jiao4 quan2 mian4 le5 you4 bao3 zhong4 da4 ji2 bing4 hai2 bao3 zhu4 yuan4 yi1 liao2
+000039	这个#1身故#1保障#1是#1被保险人#1身故#3，按#1基本#1保额#1给付#1身故#1保险金#3，合同#1终止#4。
+	zhei4 ge5 shen1 gu4 bao3 zhang4 shi4 bei4 bao6 xian3 ren2 shen1 gu4 an4 ji1 ben6 bao3 e2 ji3 fu4 shen1 gu4 bao6 xian3 jin1 he2 tong5 zhong1 zhi3
+000040	旅游险#1一般#1不能#1当天#1生效#3，所以#1一定要#1提前#1规划好#1行程#1，提前#1购买#1旅游险#4。
+	lv3 you2 xian3 yi4 ban1 bu4 neng2 dang4 tian1 sheng1 xiao4 suo6 yi3 yi2 ding4 yao4 ti2 qian2 gui1 hua4 hao3 xing2 cheng2 ti2 qian2 gou4 mai6 lv3 you2 xian3
+000041	孩子#1也#1可以#1选择#1一百#1和#1五十的#3，就是#1只保#1意外#4。
+	hai2 zi5 ye3 ke6 yi6 xuan3 ze2 yi4 bai3 he2 wu3 shi2 de5 jiu4 shi4 zhi6 bao3 yi4 wai4
+000042	被保险人#1有#1社保的#1情况下#1，可以#1再入#1这个#1保险#4。
+	bei4 bao6 xian3 ren2 you3 she4 bao3 de5 qing2 kuang4 xia4 ke6 yi3 zai4 ru4 zhei4 ge5 bao6 xian3
+000043	就是#1我#1刚才#1给您#1说的#1这个#3，助老#1健康#1预险#1，是#1专门#1针对#1老年人#1投保的#1一款#1意外#1保险#4。
+	jiu4 shi4 wo3 gang1 cai2 gei3 nin2 shuo1 de5 zhei4 ge5 zhu4 lao3 jian4 kang1 yu4 xian3 shi4 zhuan1 men2 zhen1 dui4 lao3 nian2 ren2 tou2 bao3 de5 yi4 kuan3 yi4 wai4 bao6 xian3
+000044	你像#1针对#1小孩子的#1保险#2大部分#1年龄的话#1都是#1零到#1多少#1多少岁的#4。
+	ni3 xiang4 zhen1 dui4 xiao3 hai2 zi5 de5 bao6 xian3 da4 bu4 fen5 nian2 ling2 de5 hua4 dou1 shi4 ling2 dao4 duo1 shao3 duo1 shao3 sui4 de5
+000045	假如说#1我有#1这个#1保险#3，然后#1我#1哪一天#1真的#1得了#1重疾了#3，可以#1申请#1理赔#4。
+	jia3 ru2 shuo1 wo6 you3 zhei4 ge5 bao6 xian3 ran2 hou4 wo6 na3 yi4 tian1 zhen1 de5 de2 le5 zhong4 ji2 le5 ke6 yi3 shen1 qing6 li3 pei2
+000046	我看#1有没有#1其它#1医疗险#3，请稍等#4。
+	wo3 kan4 you3 mei2 you3 qi2 ta1 yi1 liao2 xian3 qing3 shao1 deng3
+000047	你是#1想了解#1车险吗#4？
+	ni3 shi4 xiang3 liao6 jie3 che1 xian3 ma5
+000048	如果#1是#1因为#1意外#1住院了#1会给您#1一定的#1补贴#4。
+	ru2 guo3 shi4 yin1 wei4 yi4 wai4 zhu4 yuan4 le5 hui4 gei3 nin2 yi2 ding4 de5 bu3 tie1
+000049	这边的话#2车险#1这一块儿#1还有#1什么#1需要#1咨询的吗#4？
+	zhei4 bian1 de5 hua4 che1 xian3 zhei4 yi2 kuair4 hai2 you3 shen2 me5 xu1 yao4 zi1 xun2 de5 ma5
+000050	花费#1合理#1改变了#1医疗#1费用#3，然后#1需要在#1定点院的#1普通#1病房#1治疗#4。
+	hua1 fei4 he2 li6 gai3 bian4 le5 yi1 liao2 fei4 yong5 ran2 hou4 xu1 yao4 zai4 ding4 dian3 yuan4 de5 pu3 tong1 bing4 fang2 zhi4 liao2

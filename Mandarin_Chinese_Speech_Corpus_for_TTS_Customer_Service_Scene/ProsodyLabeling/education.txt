@@ -1,0 +1,100 @@
+100001	它#1包含了#1课程#2，就#1大班#1课程#1和#1它这种#1VIP#1一对一#4。
+	ta1 bao1 han2 le5 ke4 cheng2 jiu4 da4 ban1 ke4 cheng2 he2 ta1 zhei4 zhong3 / V EY1 . AY1 . P IY1 / yi1 dui4 yi1
+100002	可能#1学了#1这个#1对不对#3？但是#1你们#1可能#1学不到#1那么#1深入的#1Java Script#3，这些啊#2，应该是#1用不到#1这些#1东西的#4。
+	ke3 neng2 xue2 le5 zhei4 ge5 dui4 bu5 dui4 dan4 shi4 ni3 men5 ke3 neng2 xue2 bu2 dao4 na4 me5 shen1 ru4 de5 / JH AA1 . V AH0 / S K R EH1 P T / zhe4 xie1 a5 ying1 gai1 shi4 yong4 bu2 dao4 zhe4 xie1 dong1 xi5 de5
+100003	它#1包含了#1课程#3，就#1大班#1课程#1和它#1这种#1VIP#1一对一#4。
+	ta1 bao1 han2 le5 ke4 cheng2 jiu4 da4 ban1 ke4 cheng2 he2 ta1 zhei4 zhong3 / V EY1 . AY1 . P IY1 / yi1 dui4 yi1
+100004	Java#1主要#1是做#1运用性#1开发的#3，它的#1一个#1源代码#1是#1开源的#2，可以#1跨平台#4。
+	JH AA1 . V AH0 / zhu3 yao4 shi4 zuo4 yun4 yong4 xing4 kai1 fa1 de5 ta1 de5 yi2 ge5 yuan2 dai4 ma3 shi4 kai1 yuan2 de5 ke6 yi3 kua4 ping2 tai2
+100005	因为#1Java#1它是#1一个#1开源的#1，可以#1跨平台#3，后期#1可以#1直接#1做#1Java开发#1，也可以#1转行#1做安卓#1，还可以#1做PHP#4。
+	yin1 wei4 / JH AA1 . V AH0 / ta1 shi4 yi2 ge5 kai1 yuan2 de5 ke6 yi3 kua4 ping2 tai2 hou4 qi1 ke6 yi3 zhi2 jie1 zuo4 / JH AA1 . V AH0 / kai1 fa1 ye3 ke6 yi6 zhuan3 hang2 zuo4 an1 zhuo2 hai2 ke6 yi3 zuo4 / P IY1 . EY1 CH . P IY1
+100006	是在#1长沙#1学的话#2，那个#1我#1问一下#3，你是#1只学#1Java吗#4？
+	shi4 zai4 chang2 sha1 xue2 de5 hua4 na4 ge5 wo3 wen4 yi2 xia4 ni3 shi4 zhi3 xue2 / JH AA1 . V AH0 / ma5
+100007	招#1会Java的人#2，不招#1都会#1别的#3，不会#1做Java的人#4。
+	zhao1 hui4 / JH AA1 . V AH0 / de5 ren2 bu4 zhao1 dou1 hui4 bie2 de5 bu2 hui4 zuo4 / JH AA1 . V AH0 / de5 ren2
+100008	里面哈#3，对对对#3，你们#1做网页#1就要#1学习#1Java CSS#1这些哈#4。
+	li3 mian4 ha5 dui4 dui4 dui4 ni3 men5 zuo4 wang3 ye4 jiu4 yao4 xue2 xi2 / JH AA1 . V AH0 / S EY1 . EH1 S . EH1 S / zhei4 xie1 ha5
+100009	Java#1分为#2SE#3，ME#3，EE#1方向#3，不同的#1方向#1到一个#1程度#1是#1不同的#3，就等于#1是#1初级#3，中级#1和#1高级#1这样#1去理解#4。
+	JH AA1 . V AH0 / fen1 wei2 / EH1 S . IY1 / EH1 M . IY1 / IY1 . IY1 / fang1 xiang4 bu4 tong2 de5 fang1 xiang4 dao4 yi2 ge5 cheng2 du4 shi4 bu4 tong2 de5 jiu4 deng3 yu2 shi4 chu1 ji2 zhong1 ji2 he2 gao1 ji2 zhe4 yang4 qu4 li6 jie3
+100010	有Java#3，有#1UI#1设计#3，还有#1动漫#1设计#1和#1后期#1制作#1这些#1平面#1设计#4。
+	you3 / JH AA1 . V AH0 / you3 / Y UW1 . AY1 / she4 ji4 hai2 you3 dong4 man4 she4 ji4 he2 hou4 qi1 zhi4 zuo4 zhei4 xie1 ping2 mian4 she4 ji4
+100011	CS#1结构的#1课程吧#3？就是#1走的是#1这个#1Java SE#1方向吧#4？
+	S IY1 . EH1 S / jie2 gou4 de5 ke4 cheng2 ba5 jiu4 shi4 zou3 de5 shi4 zhei4 ge5 / JH AA1 . V AH0 / EH1 S . IY1 / fang1 xiang4 ba5
+100012	这块儿#1懂点儿#3，那#1这个#1课程#1在#1青鸟#1要#1想学的话#1，都是#1可以#1去学习的#4。
+	zhei4 kuair4 dong6 dianr3 na4 zhei4 ge5 ke4 cheng2 zai4 qing1 niao3 yao4 xiang3 xue2 de5 hua4 dou1 shi4 ke6 yi3 qu4 xue2 xi2 de5
+100013	那么#1Java#1里面#1中级#1还要学#1M#2以及#1到#1外部#1前端的#1应用#1系统#1开发#3，要学到#1Java Script#1数据库#3，学会#1做#1动态的#1网站#4。
+	na4 me5 / JH AA1 . V AH0 / li3 mian4 zhong1 ji2 hai2 yao4 xue2 / EH1 M / yi3 ji2 dao4 wai4 bu4 qian2 duan1 de5 ying4 yong4 xi4 tong3 kai1 fa1 yao4 xue2 dao4 / JH AA1 . V AH0 / S K R EH1 P T / shu4 ju4 ku4 xue2 hui4 zuo4 dong4 tai4 de5 wang3 zhan4
+100014	那现在#1关于#1咱们#1心理#1这一方面#1的话#2，国家#1要求#1是#1报考#1国际#1注册#1心理#1咨询师#1ACL#4。
+	na4 xian4 zai4 guan1 yu2 zan2 men5 xin1 li3 zhei4 yi4 fang1 mian4 de5 hua4 guo2 jia1 yao1 qiu2 shi4 bao4 kao3 guo2 ji4 zhu4 ce4 xin1 li3 zi1 xun2 shi1 / EY1 . S IY1 . EH1 L
+100015	这种#1词汇营#1包括#1那种#1听力#1口语营#1，它的#1价位#1是#1四千#1九百八#4。
+	zhei4 zhong3 ci2 hui4 ying2 bao1 kuo4 nei4 zhong3 ting1 li4 kou6 yu3 ying2 ta1 de5 jia4 wei4 shi4 si4 qian1 jiu6 bai3 ba1
+100016	在考#1人力呀#1心理呀#1这一#1方面的吗#3？有#1在考的吗#4？
+	zai4 kao3 ren2 li4 ya5 xin1 li3 ya5 zhei4 yi4 fang1 mian4 de5 ma5 you3 zai4 kao3 de5 ma5
+100017	因为#1考研的话#1咱们#1有分#1英语一#1和#1英语二的#1课程#4。
+	yin1 wei4 kao3 yan2 de5 hua4 zan2 men5 you3 fen1 ying1 yu3 yi1 he2 ying1 yu3 er4 de5 ke4 cheng2
+100018	笔试的#1辅导#1课程的话#1在#1湖北#1武汉#1这边#1是有#1相关#1课程的#4。
+	bi3 shi4 de5 fu6 dao3 ke4 cheng2 de5 hua4 zai4 hu2 bei6 wu3 han4 zhei4 bian1 shi4 you3 xiang1 guan1 ke4 cheng2 de5
+100019	嗯#3，因为#1咱们#1也都#1知道#1学习#1英语的话呢#2，词汇#1和#1语法#1是#1最基础的#4。
+	ng4 yin1 wei4 zan2 men5 ye3 dou1 zhi1 dao4 xue2 xi2 ying1 yu3 de5 hua4 ne5 ci2 hui4 he2 yu6 fa3 shi4 zui4 ji1 chu3 de5
+100020	但是#1心理的#1价位#1是#1要比#1咱们#1国内的#1价位#1稍微#1高一些#4。
+	dan4 shi4 xin1 li3 de5 jia4 wei4 shi4 yao4 bi3 zan2 men5 guo2 nei4 de5 jia4 wei4 shao1 wei1 gao1 yi4 xie1
+100021	出国的#1项目的话#2，咱们#1这边#1是#1考试#1或者是#1国游#1都有#4。
+	chu1 guo2 de5 xiang4 mu4 de5 hua4 zan2 men5 zhei4 bian1 shi4 kao3 shi4 huo4 zhe3 shi4 guo2 you2 dou1 you3
+100022	我们#1老师#1会教#1怎么样#1去复习#1语法#1方面#4。
+	wo3 men5 lao3 shi1 hui4 jiao1 zen3 me5 yang4 qu4 fu4 xi2 yu6 fa3 fang1 mian4
+100023	现在#1计算机#1广告#1制作#1也跟#1咱们#1是有#1很大#1关系的#4。
+	xian4 zai4 ji4 suan4 ji1 guang3 gao4 zhi4 zuo4 ye3 gen1 zan2 men5 shi4 you6 hen3 da4 guan1 xi5 de5
+100024	您要#1过来的话#1肯定#1没有#1问题#3，因为#1您前面#1有#1高中的#1英语#1基础#4。
+	nin2 yao4 guo4 lai5 de5 hua4 ken3 ding4 mei2 you3 wen4 ti2 yin1 wei4 nin2 qian2 mian4 you3 gao1 zhong1 de5 ying1 yu3 ji1 chu3
+100025	尤其是#1数学#1这一块儿#2没有#1什么#1大问题#4。
+	you2 qi2 shi4 shu4 xue2 zhei4 yi2 kuair4 mei2 you3 shen2 me5 da4 wen4 ti2
+100026	那么#1刚好#2领完#1这个#1证书#1，你就#1可以#1正式#1步入#1会计的#1行业#4。
+	na4 me5 gang1 hao6 ling3 wan2 zhei4 ge5 zheng4 shu1 ni3 jiu4 ke6 yi3 zheng4 shi4 bu4 ru4 kuai4 ji5 de5 hang2 ye4
+100027	那#1英语#1方面的#1成绩#1怎么样呢#4？
+	na4 ying1 yu3 fang1 mian4 de5 cheng2 ji4 zen3 me5 yang4 ne5
+100028	就#1比如说#1刚刚#1跟您#1提到的#1英语二#1这个#1集训营的#1班级#3，我觉得#1很适合#1孩子#4。
+	jiu4 bi3 ru2 shuo1 gang1 gang1 gen1 nin2 ti2 dao4 de5 ying1 yu3 er4 zhei4 ge5 ji2 xun4 ying2 de5 ban1 ji2 wo3 jue2 de5 hen3 shi4 he2 hai2 zi5
+100029	还有#1一种#1是#1夏令营的#1形式#3，也是#1针对#1英语的#1能力#1提升的#3，比如说#1咱们#1那个#1词汇#1魔鬼#1速记营#4。
+	hai2 you3 yi4 zhong3 shi4 xia4 ling4 ying2 de5 xing2 shi4 ye3 shi4 zhen1 dui4 ying1 yu3 de5 neng2 li4 ti2 sheng1 de5 bi3 ru2 shuo1 zan2 men5 nei4 ge5 ci2 hui4 mo2 gui3 su4 ji4 ying2
+100030	您好#1，新东方#1，五零#1三幺#1很高兴#1为您#1服务#4。
+	nin2 hao3 xin1 dong1 fang1 wu3 ling2 san1 yao1 hen3 gao1 xing4 wei4 nin2 fu2 wu4
+100031	如果说#1您要是#1有兴趣的话#2，在#1此基础上#1可以#1学一下#1心理#4。
+	ru2 guo3 shuo1 nin2 yao4 shi4 you3 xing4 qu5 de5 hua4 zai4 ci3 ji1 chu3 shang4 ke6 yi3 xue2 yi2 xia4 xin1 li3
+100032	可能#1关注度#1就没有#1这么#1高的#1英语#1课程了#4。
+	ke3 neng2 guan1 zhu4 du4 jiu4 mei2 you3 zhe4 me5 gao1 de5 ying1 yu3 ke4 cheng2 le5
+100033	出国#1留学的话#1肯定#1自己#1要准备#1一些#1英语#1考试#4。
+	chu1 guo2 liu2 xue2 de5 hua4 ken3 ding4 zi4 ji3 yao4 zhun3 bei4 yi4 xie1 ying1 yu6 kao3 shi4
+100034	除非#1是他#1当时#1大学#1就是#1学Java的#3，就是#1学C加加的#3，那可能#1也会要#1考核#1一下#1他的#1专业#1知识#1到底#1在一个#1什么样的#1层次#4。
+	chu2 fei1 shi4 ta1 dang1 shi2 da4 xue2 jiu4 shi4 xue2 / JH AA1 . V AH0 / de5 jiu4 shi4 xue2 / S IY1 / jia1 jia1 de5 na4 ke3 neng2 ye3 hui4 yao4 kao3 he2 yi2 xia4 ta1 de5 zhuan1 ye4 zhi1 shi5 dao4 di3 zai4 yi2 ge5 shen2 me5 yang4 de5 ceng2 ci4
+100035	嗯#3，为什么#1会考虑#1出国#1留学呢#4？
+	ng4 wei4 shen2 me5 hui4 kao3 lv4 chu1 guo2 liu2 xue2 ne5
+100036	哦#1，那要#1这样的话#1比较#1建议您#1先从#1词汇的#1信息#1来上课#4。
+	o4 na4 yao4 zhe4 yang4 de5 hua4 bi3 jiao4 jian4 yi4 nin2 xian1 cong2 ci2 hui4 de5 xin4 xi1 lai2 shang4 ke4
+100037	那我们#1主要#1把#1语文#1英语#1往上#1提一提#1其实#1就可以了#4。
+	na4 wo3 men5 zhu3 yao4 ba6 yu3 wen2 ying1 yu6 wang3 shang4 ti2 yi4 ti2 qi2 shi2 jiu4 ke6 yi3 le5
+100038	语文#1和#1英语#1，如果#1这两门#1他#1比较#1薄弱的话#2，应该#1上#1我们#1这边的#1能力#1提升#1课程#4。
+	yu3 wen2 he2 ying1 yu3 ru2 guo3 zhei4 liang3 men2 ta1 bi3 jiao4 bo2 ruo4 de5 hua4 ying1 gai1 shang4 wo3 men5 zhei4 bian1 de5 neng2 li4 ti2 sheng1 ke4 cheng2
+100039	您就#1知道#1您#1将来#1怎样的#1发展#1方向#3，那#1现在#1学的#1完全#1就是#1非相关#4。
+	nin2 jiu4 zhi1 dao4 nin2 jiang1 lai2 zen3 yang4 de5 fa1 zhan3 fang1 xiang4 na4 xian4 zai4 xue2 de5 wan2 quan2 jiu4 shi4 fei1 xiang1 guan1
+100040	咱们#1就能#1申请#1教师#1资格证了#3，普通话#1在校#1期间#1考了吗#4？
+	zan2 men5 jiu4 neng2 shen1 qing3 jiao4 shi1 zi1 ge2 zheng4 le5 pu3 tong1 hua4 zai4 xiao4 qi1 jian1 kao3 le5 ma5
+100041	您好#2，欢迎#1致电#1新东方#3，请问#1有什么#1可以#1帮您的吗#4？
+	nin2 hao3 huan1 ying2 zhi4 dian4 xin1 dong1 fang1 qing3 wen4 you3 shen2 me5 ke6 yi3 bang1 nin2 de5 ma5
+100042	因为#1您#1比方说#1就算#1有了#1计算机证#3，计算机#1水平#1也#1不一定#1达到#1四六级#4。
+	yin1 wei4 nin2 bi3 fang1 shuo1 jiu4 suan4 you3 le5 ji4 suan4 ji1 zheng4 ji4 suan4 ji1 shui3 ping2 ye3 bu4 yi2 ding4 da2 dao4 si4 liu4 ji2
+100043	您#1如果#1考了#1这个#1人力#1资源#1管理区#1职业#1资格证#3，对#1以后#1工作#1很有利#4。
+	nin2 ru2 guo6 kao3 le5 zhei4 ge5 ren2 li4 zi1 yuan2 guan6 li3 qu1 zhi2 ye4 zi1 ge2 zheng4 dui4 yi3 hou4 gong1 zuo4 hen6 you3 li4
+100044	怎样#1来进行#3？而且#1专业的#1心理#1咨询师#1必须#1具备#1怎样的#1技巧#4？
+	zen3 yang4 lai2 jin4 xing2 er2 qie3 zhuan1 ye4 de5 xin1 li3 zi1 xun2 shi1 bi4 xu1 ju4 bei4 zen3 yang4 de5 ji4 qiao3
+100045	像#1一般#1来讲啊#3，我们#1常说的#1数学#1它有#1两个#1主要的#1分水岭#4。
+	xiang4 yi4 ban1 lai2 jiang3 a5 wo3 men5 chang2 shuo1 de5 shu4 xue2 ta1 you6 liang3 ge5 zhu3 yao4 de5 fen1 shui6 ling3
+100046	因为#1咱们#1都知道#3，考研#1和#1咱们#1英语#1四六级#1价格#1是#1不一样的#4。
+	yin1 wei4 zan2 men5 dou1 zhi1 dao4 kao3 yan2 he2 zan2 men5 ying1 yu3 si4 liu4 ji2 jia4 ge2 shi4 bu4 yi2 yang4 de5
+100047	能#1麻烦您#1说一下#2咱们#1英语#1能考到#1多少分#4。
+	neng2 ma2 fan5 nin2 shuo1 yi2 xia4 zan2 men5 ying1 yu3 neng2 kao3 dao4 duo1 shao3 fen1
+100048	是这样的#3，像#1北大#1青鸟的话#1他#1其实#1应该#1更专业#1一点#4。
+	shi4 zhei4 yang4 de5 xiang4 bei3 da4 qing1 niao3 de5 hua4 ta1 qi2 shi2 ying1 gai1 geng4 zhuan1 ye4 yi4 dian3
+100049	那您#1可以#1转行#1去#1学校#1里面#1教#1计算机#1这一类的#1一些#1基础性的#1课程#1也是#1可以的#4。
+	na4 nin2 ke6 yi6 zhuan3 hang2 qu4 xue2 xiao4 li3 mian4 jiao1 ji4 suan4 ji1 zhei4 yi2 lei4 de5 yi4 xie1 ji1 chu3 xing4 de5 ke4 cheng2 ye3 shi4 ke6 yi3 de5
+100050	嗯#3，然后#1学了#1一点#1简单的#1内容#1像#1Java#1程序#1逻辑#4。
+	ng4 ran2 hou4 xue2 le5 yi4 dian6 jian3 dan1 de5 nei4 rong2 xiang4 / JH AA1 . V AH0 / cheng2 xu4 luo2 ji5

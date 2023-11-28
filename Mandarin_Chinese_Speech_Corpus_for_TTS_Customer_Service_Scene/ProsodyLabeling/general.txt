@@ -1,0 +1,100 @@
+400001	如果是#1购买#1四G#1加#1六十四G#1的话#2，它的#1参考#1价格#1是在#1两千#1四百#1九十九#1左右#4。
+	ru2 guo3 shi4 gou4 mai3 si4 / JH IY1 / jia1 liu4 shi2 si4 / JH IY1 / de5 hua4 ta1 de5 can1 kao3 jia4 ge2 shi4 zai4 liang3 qian1 si4 bai6 jiu3 shi2 jiu6 zuo3 you4
+400002	您#1要有#1京东#1账户#3，您#1下载#1一个#1手机#1下载#1一个#1APP#1登录#1京东#1账户#3，会员的话#1上面#1也有#1具体#1介绍的#4。
+	nin2 yao4 you3 jing1 dong1 zhang4 hu4 nin2 xia4 zai4 yi2 ge5 shou3 ji1 xia4 zai4 yi2 ge5 / EY1 . P IY1 . P IY1 / deng1 lu4 jing1 dong1 zhang4 hu4 hui4 yuan2 de5 hua4 shang4 mian4 ye6 you3 ju4 ti3 jie4 shao4 de5
+400003	您#1听完课#1之后#2，会有#1匹配的#1题库#3，您#1可以#1去#1那个#1APP#1题库#1里面#1进行#1刷题#4。
+	nin2 ting1 wan2 ke4 zhi1 hou4 hui4 you6 pi3 pei4 de5 ti2 ku4 nin2 ke6 yi3 qu4 na4 ge5 / EY1 . P IY1 . P IY1 / ti2 ku4 li3 mian5 jin4 xing2 shua1 ti2
+400004	你是#1需要#1穿越#1火线#1里面#1那种#1CF点#1是吗#4？
+	ni3 shi4 xu1 yao4 chuan1 yue4 huo3 xian4 li3 mian4 na4 zhong3 / S IY1 . EH1 F / dian3 shi4 ma5
+400005	它这个#1会员#1PAS#3，也是#1你#1购买#1以后#1才#1生效的#4。
+	ta1 zhei4 ge5 hui4 yuan2 / P IY1 . EY1 . EH1 S / ye3 shi4 ni3 gou4 mai6 yi3 hou4 cai2 sheng1 xiao4 de5
+400006	那#1这个钱#1是从#1卡里#1转到#1小金库#2还是#1从#1卡里#1转到#1这个#1APP#1上面呢#4？
+	na4 zhei4 ge5 qian2 shi4 cong2 ka6 li3 zhuan3 dao4 xiao3 jin1 ku4 hai2 shi4 cong2 ka3 li3 zhuan3 dao4 zhei4 ge5 / EY1 . P IY1 . P IY1 / shang4 mian4 ne5
+400007	对#2，有一个#1学生#1通道#3，需要您#1在#1京东#1金融APP#1里面#1在线#1进行#1申请#4。
+	dui4 you3 yi2 ge5 xue2 sheng1 tong1 dao4 xu1 yao4 nin2 zai4 jing1 dong1 jin1 rong2 / EY1 . P IY1 . P IY1 / li3 mian5 zai4 xian4 jin4 xing2 shen1 qing3
+400008	毕先生#1您好#3，请问#1一下#1您#1正在#1使用的#1Oppo#1手机#1是#1什么#1机型的#4？
+	bi4 xian1 sheng5 nin2 hao3 qing3 wen4 yi2 xia4 nin2 zheng4 zai4 shi3 yong4 de5 / OW1 . P OW2 / shou3 ji1 shi4 shen2 me5 ji1 xing2 de5
+400009	先生#3，这个#1参数的话#2，也是#1I五#1处理器#2，然后#1是#1八G的#1内存#4。
+	xian1 sheng5 zhei4 ge5 can1 shu4 de5 hua4 ye3 shi4 / AY1 / wu3 chu6 li3 qi4 ran2 hou4 shi4 ba1 / JH IY1 / de5 nei4 cun2
+400010	CE#1零零六#1配置好的#1是#1I七的#3，八G的#1处理#1八G#1内存#1运行#1内存#1也是#1十八G的#4。
+	S IY1 . IY1 / ling2 ling2 liu4 pei4 zhi4 hao3 de5 shi4 / AY1 / qi1 de5 ba1 / JH IY1 / de5 chu6 li3 ba1 / JH IY1 / nei4 cun2 yun4 xing2 nei4 cun2 ye3 shi4 shi2 ba1 / JH IY1 / de5
+400011	对#3，I五的#1相对#1会#1比较#1实惠#1一点#4。
+	dui4 / AY1 / wu3 de5 xiang1 dui4 hui4 bi3 jiao4 shi2 hui4 yi4 dian3
+400012	就是#1我这边#1给您#1介绍#1一下#1这个#1plus#1会员#4。
+	jiu4 shi4 wo3 zhei4 bian1 gei3 nin2 jie4 shao4 yi2 xia4 zhei4 ge5 / P L AH1 S / hui4 yuan2
+400013	您在#1手机上#1打开#1咱们#1那个#1APP#2，点击#1进入#1个人#1中心#4。
+	nin2 zai4 shou3 ji1 shang4 da3 kai1 zan2 men5 nei4 ge5 / EY1 . P IY1 . P IY1 / dian3 ji1 jin4 ru4 ge4 ren2 zhong1 xin1
+400014	有的#1时候#1它会#1显示出#1plus#1会员#3，并且#1支持#1七天#1无理由#4。
+	you3 de5 shi2 hou5 ta1 hui4 xian3 shi4 chu1 / P L AH1 S / hui4 yuan2 bing4 qie3 zhi1 chi2 qi1 tian1 wu2 li3 you2
+400015	您#1如果#1购买的话#1，我们#1建议您#1可以#1看一下#1华为#1V九#4。
+	nin2 ru2 guo3 gou4 mai3 de5 hua4 wo3 men5 jian4 yi4 nin2 ke6 yi3 kan4 yi2 xia4 hua2 wei2 / V IY1 / jiu3
+400016	然后#1目前#1他有#1EE#1四八零#1新款的#4。
+	ran2 hou4 mu4 qian2 ta1 you3 / IY1 . IY1 / si4 ba1 ling2 xin1 kuan3 de5
+400017	好的#3，我跟您#1核对#1一下#3，是#1幺零#1九零#1二七九#1零九幺#2at QQ点#1com#1是吗#4？
+	hao3 de5 wo3 gen1 nin2 he2 dui4 yi2 xia4 shi4 yao1 ling2 jiu3 ling2 er4 qi1 jiu3 ling2 jiu3 yao1 / AE1 T / K Y UW1 . K Y UW1 / dian3 / K AA1 M / shi4 ma5
+400018	如果#1您#1选择#1八个G#1的话#1要#1六千多#4。
+	ru2 guo3 nin2 xuan3 ze2 ba1 ge5 / JH IY1 / de5 hua4 yao4 liu4 qian1 duo1
+400019	关于#1这一方面的#1信息#1泄露#1是#1很严重的#3，有可能#1您这边#1不经意#1点击#1某个#1APP#1进去#1就#1泄露了#4。
+	guan1 yu2 zhei4 yi4 fang1 mian4 de5 xin4 xi1 xie4 lou4 shi4 hen3 yan2 zhong4 de5 you6 ke3 neng2 nin2 zhei4 bian1 bu4 jing1 yi4 dian3 ji1 mou3 ge5 / EY1 . P IY1 . P IY1 / jin4 qu5 jiu4 xie4 lou4 le5
+400020	我先#1帮您#1转给#1E卡#1客服#1问一下#2，您#1稍等#4。
+	wo3 xian1 bang1 nin2 zhuan6 gei3 / IY1 / ka3 ke4 fu2 wen4 yi2 xia4 nin2 shao1 deng3
+400021	这手机#1运行#1内存#1是#1四个G的#2，不能改#4。
+	zhe4 shou3 ji1 yun4 xing2 nei4 cun2 shi4 si4 ge5 / JH IY1 / de5 bu4 neng2 gai3
+400022	像#1礼品卡#1的话#1它#1种类#1比较多#3，但是#1E卡的话#1它#1就是#1独一#1无二的#4。
+	xiang4 li6 pin6 ka3 de5 hua4 ta1 zhong3 lei4 bi3 jiao4 duo1 dan4 shi4 / IY1 / ka3 de5 hua4 ta1 jiu4 shi4 du2 yi1 wu2 er4 de5
+400023	嗯#3，您那边#1是想#1咨询#1X九#1对吗#4？
+	ng4 nin2 na4 bian1 shi4 xiang3 zi1 xun2 / EH1 K S / jiu3 dui4 ma5
+400024	应该#1就是#1您#1不喜欢#1这种#3，或者#1您#1可以#1看看#1其他的#3，您看看#1华为#1P十#4。
+	ying1 gai1 jiu4 shi4 nin2 bu4 xi3 huan5 zhei4 zhong3 huo4 zhe3 nin2 ke6 yi3 kan4 kan5 qi2 ta1 de5 nin2 kan4 kan5 hua2 wei2 / P IY1 / shi2
+400025	啊#3，只要#1上面#1带有#1prime#1标志的#1都可以#3，就带#1那个#1蓝色的#2那个#1P开头的#3，那#1prime#1标志#1都#1可以的#1，女士#4。
+	a4 zhi3 yao4 shang4 mian5 dai4 you3 / P R AY1 M / biao1 zhi4 de5 dou1 ke6 yi3 jiu4 dai4 na4 ge5 lan2 se4 de5 nei4 ge5 / P IY1 / kai1 tou2 de5 na4 / P R AY1 M / biao1 zhi4 dou1 ke6 yi3 de5 nv3 shi4
+400026	女士#3，请问#1一下#1您#1使用的#1是#1我们#1Ofo#1小黄车吗#4？
+	nv3 shi4 qing3 wen4 yi2 xia4 nin2 shi3 yong4 de5 shi4 wo3 men5 / OW1 . F OW2 / xiao3 huang2 che1 ma5
+400027	诶#3，京东#1E卡嘛#1是要#1做一个#1激活的#3，激活#1之后#1您就#1可以#1在#1那个#1个人#1中心#1看见#4。
+	ei2 jing1 dong1 / IY1 / ka3 ma5 shi4 yao4 zuo4 yi2 ge5 ji1 huo2 de5 ji1 huo2 zhi1 hou4 nin2 jiu4 ke6 yi3 zai4 na4 ge5 ge4 ren2 zhong1 xin1 kan4 jian5
+400028	比方说#2微信#1QQ#1那些#1有更新#1的话#3，他会#1后面#1提示#1有#1更新的#1那个#1情况#4。
+	bi3 fang1 shuo1 wei1 xin4 / K Y UW1 . K Y UW1 / na4 xie1 you3 geng1 xin1 de5 hua4 ta1 hui4 hou4 mian5 ti2 shi4 you3 geng1 xin1 de5 na4 ge5 qing2 kuang4
+400029	六十四#1GB的#1这款#1是#1一千#1七百#1九十九#4。
+	liu4 shi2 si4 / JH IY1 . B IY1 / de5 zhei4 kuan3 shi4 yi4 qian1 qi1 bai6 jiu3 shi2 jiu3
+400030	如果#1开通了#1超级#1VIP#3，上门#1揽件#1以及#1购买#1东西#1是#1免邮的#4。
+	ru2 guo3 kai1 tong1 le5 chao1 ji2 / V IY1 . AY1 . P IY1 / shang4 men2 lan3 jian4 yi3 ji2 gou4 mai3 dong1 xi5 shi4 mian3 you2 de5
+400031	对#3，它那个#1内存#1也#1挺大的#3，我看#1六十四G的#3，看电视#1或者#1玩游戏#1，都#1完全#1足够了#4。
+	dui4 ta1 na4 ge5 nei4 cun2 ye6 ting3 da4 de5 wo3 kan4 liu4 shi2 si4 / JH IY1 / de5 kan4 dian4 shi4 huo4 zhe3 wan2 you2 xi4 dou1 wan2 quan2 zu2 gou4 le5
+400032	麻烦#1您那边#1摁一下#1home键#1返回#1桌面#4。
+	ma2 fan5 nin2 na4 bian1 en4 yi2 xia4 / HH OW1 M / jian4 fan3 hui2 zhuo1 mian4
+400033	我#1看一下#3，您这边#1有个#1活动#1链接#1PC端#2和#1APP端的#1这个#1接口#1是吧#4？
+	wo3 kan4 yi2 xia4 nin2 zhei4 bian1 you3 ge5 huo2 dong4 lian4 jie1 / P IY1 . S IY1 / duan1 he2 / EY1 . P IY1 . P IY1 / duan1 de5 zhei4 ge5 jie1 kou3 shi4 ba5
+400034	首先#1是#1建议您#1使用#1我们#1这个#1手机#1装个#1APP#4。
+	shou3 xian1 shi4 jian4 yi4 nin2 shi3 yong4 wo3 men5 zhei4 ge5 shou3 ji1 zhuang1 ge5 / EY1 . P IY1 . P IY1
+400035	因为#1微信#1和#1QQ#1不是#1我们的#1产品#2，我们#1这边#1无法#1售后#4。
+	yin1 wei2 wei1 xin4 he2 / K Y UW1 . K Y UW1 / bu2 shi4 wo3 men5 de5 chan6 pin3 wo3 men5 zhei4 bian1 wu2 fa3 shou4 hou4
+400036	您#1直接#1在#1这个#1京东的#1首页#1这边#1搜索#1这个#1京东#1E卡#4。
+	nin2 zhi2 jie1 zai4 zhei4 ge5 jing1 dong1 de5 shou3 ye4 zhei4 bian1 sou1 suo3 zhei4 ge5 jing1 dong1 / IY1 / ka3
+400037	可以的#3，因为#1您是#1prime#1会员#1，女士#4。
+	ke6 yi3 de5 yin1 wei4 nin2 shi4 / P R AY1 M / hui4 yuan2 nv3 shi4
+400038	您#1可以#1在#1京东APP#1里面#3，右上方#1有一个#1我的#3，然后#1里面的#1白条#1里面#1去#1点开#1尝试#1申请#4。
+	nin2 ke6 yi3 zai4 jing1 dong1 / EY1 . P IY1 . P IY1 / li3 mian4 you4 shang4 fang1 you3 yi2 ge5 wo3 de5 ran2 hou4 li3 mian5 de5 bai2 tiao2 li3 mian5 qu4 dian3 kai1 chang2 shi4 shen1 qing3
+400039	这个#1您#1需要#1去#1具体的#1界面#1里面#1去#1看一下#3，就是#1您#1下载#1京东#1金融#1这个#1APP#1进入#1去看#4。
+	zhei4 ge5 nin2 xu1 yao4 qu4 ju4 ti3 de5 jie4 mian4 li3 mian5 qu4 kan4 yi2 xia4 jiu4 shi4 nin2 xia4 zai4 jing1 dong1 jin1 rong2 zhei4 ge5 / EY1 . P IY1 . P IY1 / jin4 ru4 qu4 kan4
+400040	您#1有没有#1邮箱#3，我#1发送#1一个#1Win十#1禁用#1系统#1更新的#1一个#1方法#1给您#4。
+	nin2 you3 mei2 you3 you2 xiang1 wo3 fa1 song4 yi2 ge5 / W IH1 N / shi2 jin4 yong4 xi4 tong3 geng1 xin1 de5 yi2 ge5 fang1 fa3 gei6 nin2
+400041	加上#1闲时的#2，差不多#1也就是#1十二个G#1多点儿#4。
+	jia1 shang5 xian2 shi2 de5 cha4 bu4 duo1 ye3 jiu4 shi4 shi2 er4 ge5 / JH IY1 / duo1 dianr3
+400042	您是想#1咨询#1这个#1iphone X的#1京东#1闪购#1活动吗#4？
+	nin2 shi4 xiang3 zi1 xun2 zhei4 ge5 / AY1 . F OW2 N / EH1 K S / de5 jing1 dong1 shan3 gou4 huo2 dong4 ma5
+400043	哦#3，您那边#1是想#1开通#1VPN的#1权限吗#4？
+	o4 nin2 na4 bian1 shi4 xiang3 kai1 tong1 / V IY1 . P IY1 . EH1 N / de5 quan2 xian4 ma5
+400044	一些#1小米的#2，一些#1Oppo的话#1都有#3，但是#2，可能#1我个人#1就#1比较#1喜欢#1华为#1这个#1品牌#4。
+	yi4 xie1 xiao6 mi3 de5 yi4 xie1 / OW1 . P OW2 / de5 hua4 dou1 you3 dan4 shi4 ke3 neng2 wo3 ge4 ren2 jiu4 bi3 jiao4 xi3 huan5 hua2 wei2 zhei4 ge5 pin3 pai2
+400045	白条#1申请的话#2，您#1可以#1在#1我们的#1京东#1金融APP#1上面#1申请#1一个#3，在#1京东#1商城#1APP#1里面#1找到#1白条#2然后#1进去#1申请#4。
+	bai2 tiao2 shen1 qing3 de5 hua4 nin2 ke6 yi3 zai4 wo3 men5 de5 jing1 dong1 jin1 rong2 / EY1 . P IY1 . P IY1 / shang4 mian5 shen1 qing3 yi2 ge5 zai4 jing1 dong1 shang1 cheng2 / EY1 . P IY1 . P IY1 / li3 mian4 zhao3 dao4 bai2 tiao2 ran2 hou4 jin4 qu5 shen1 qing3
+400046	就是#1它的#1暂缓存#1是#1三GB#3，然后#1它本身#1是#1三十二GB#3就是#1可以存#1三十二GB的#1东西#4。
+	jiu4 shi4 ta1 de5 zan4 huan3 cun2 shi4 san1 / JH IY1 . B IY1 / ran2 hou4 ta1 ben3 shen1 shi4 san1 shi2 er4 / JH IY1 . B IY1 / jiu4 shi4 ke6 yi3 cun2 san1 shi2 er4 / JH IY1 . B IY1 / de5 dong1 xi5
+400047	您那边#1是#1plus#1会员#1，对吧#4？
+	nin2 na4 bian1 shi4 / P L AH1 S / hui4 yuan2 dui4 ba5
+400048	非常#1抱歉#3这个#1没有#1办法#3，因为#1苹果#1是#1IOS的#1系统#4。
+	fei1 chang2 bao4 qian4 zhei4 ge5 mei2 you3 ban4 fa3 yin1 wei4 ping2 guo3 shi4 / AY1 . OW1 . EH1 S / de5 xi4 tong3
+400049	健康#1随E保#1的话#1是#1我们#1公司#1在#1官网上的#1一款#1产品#3，请问#1您是#1想要#1投保吗#4？
+	jian4 kang1 sui2 / IY1 / bao3 de5 hua4 shi4 wo3 men5 gong1 si1 zai4 guan1 wang3 shang4 de5 yi4 kuan3 chan6 pin3 qing3 wen4 nin2 shi4 xiang3 yao4 tou2 bao3 ma5
+400050	对#3，我这边#1就是#1显示#1您为#1plus#1会员#4。
+	dui4 wo3 zhei4 bian1 jiu4 shi4 xian3 shi4 nin2 wei2 / P L AH1 S / hui4 yuan2
